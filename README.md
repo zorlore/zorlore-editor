@@ -1,6 +1,6 @@
 # zorlore-editor
 
-Prebuilt artifacts for the Zorlore map editor.
+This is the Zorlore world editor
 
 ## Runtime Dependencies (Per OS)
 
